@@ -111,7 +111,7 @@ final class AppSettings {
     let backgroundAppRefreshTaskIdentifier = "io.element.elementx.background.refresh"
 
     /// A URL where users can go read more about the app.
-    let websiteURL: URL = "https://element.io"
+    let websiteURL: URL = "https://chat.neomx.app"
     /// A URL that contains the app's logo that may be used when showing content in a web view.
     let logoURL: URL = "https://element.io/mobile-icon.png"
     /// A URL that contains that app's copyright notice.
